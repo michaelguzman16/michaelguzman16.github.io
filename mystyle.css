@@ -1,15 +1,7 @@
-<style>
-body { 
-    background-color: aqua;
-    background-image: url("lb.jpg");
-}
-
-h1 { 
-    color: blueviolet; 
-}
-
+body {background-color: aqua;}
+h1 {color:blueviolet;}
 #content {
     width: 800px;
-    margin: 0 auto; /* Corrected the margin syntax */
+    margin: 0, auto;
 }
-</style>
+ body { background-image: url("lb.jpg");}
